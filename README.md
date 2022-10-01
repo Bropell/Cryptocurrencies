@@ -19,3 +19,15 @@ are displayed below. <br>
 <p align="center">
     <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Text_variable%20data.png"/>
 </p><br>
+
+<h4 align="center">Prestandardized Dataframe</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Prestandardized%20data.png"/>
+</p><br>
+
+<h4 align="center">Standardized and Transformed Dataframe</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Standardized_transformed%20data.png"/>
+</p><br>
+
+### Reducing Data Dimensions using PCA

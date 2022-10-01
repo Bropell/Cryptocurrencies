@@ -25,9 +25,24 @@ are displayed below. <br>
     <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Prestandardized%20data.png"/>
 </p><br>
 
-<h4 align="center">Standardized and Transformed Dataframe</h4>
+<h4 align="center">Standardized and Transformed Data</h4>
 <p align="center">
     <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Standardized_transformed%20data.png"/>
 </p><br>
 
 ### Reducing Data Dimensions using PCA
+PCA was used to reduce the dimensions to three principal components from five. The data once again had to be transformed
+which can be seen in the first image below. A new DataFrame was created from the PCA model which is displayed in the second 
+image below.<br>  
+
+<h4 align="center">PCA Transformed Data</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/PCA_transformed.png"/>
+</p><br>
+
+<h4 align="center">PCA DataFrame</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/PCA_DataFrame.png"/>
+</p><br>
+
+### Clustering Using K-Means

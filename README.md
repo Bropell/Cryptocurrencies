@@ -46,3 +46,25 @@ image below.<br>
 </p><br>
 
 ### Clustering Using K-Means
+The first thing done in this section was to find the best k-value by creating and using an elbow curve. The sharpest point
+of inflection, or the elbow of the curve, is the desired value. As seen in the elbow curve image below, a k-value of 4 was
+found meaning a K-Means model with 4 clusters needed to be used. The model was fit and subsequent cluster predictions were 
+made which can be seen in the second image below. Lastly, a new DataFrame was made to include the predicted clusters and 
+cryptocurrency features.<br>
+
+<h4 align="center">Elbow Curve</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Elbow_Curve.png"/>
+</p><br>
+
+<h4 align="center">Prediction Clusters</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Prediction_Clusters.png"/>
+</p><br>
+
+<h4 align="center">Clustered DataFrame</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Clustered_DataFrame.png"/>
+</p><br>
+
+### Visualizing the Results

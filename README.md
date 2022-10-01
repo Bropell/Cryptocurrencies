@@ -68,3 +68,18 @@ cryptocurrency features.<br>
 </p><br>
 
 ### Visualizing the Results
+The last part of the project involved generating all the visuals required to report on the results of the machine learning
+model. A 3D-Scatter plot was rendered with the PCA data and the clusters as seen in the image below. The separation of 
+the clusters is made very clear with the use of different shapes and colors.<br>
+
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/3D-Scatter.png"/>
+</p><br>
+
+A table was made using hvplot to display the 532 tradeable cryptocurrencies with a scroll feature which allows more versatility 
+than the DataFrame in terms of viewing the data.<br> 
+
+<h4 align="center">Hvplot Table</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Hvplot-Table.png"/>
+</p><br>

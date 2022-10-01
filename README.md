@@ -83,3 +83,18 @@ than the DataFrame in terms of viewing the data.<br>
 <p align="center">
     <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Hvplot-Table.png"/>
 </p><br>
+
+The TotalCoinsSupply and TotalCoinsMined parameters were of interest so once more the data was scaled, fit, transformed
+and converted into a DataFrame as seen below. Data from this DataFrame was then used to make a 2D-Scatter plot of TotalCoinsSupply
+vs TotalCoinsMined with classes being separated by color. The tight grouping in the corner suggests that for most cryptocurrencies
+the TotalCoinsSupply and TotalCoinsMined follow the same general pattern of behavior.<br>
+
+<h4 align="center">Total Coins DataFrame</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/Totalcoins_DataFrame.png"/>
+</p><br>
+
+<h4 align="center">2D-Scatter</h4>
+<p align="center">
+    <img src= "https://github.com/Bropell/Cryptocurrencies/blob/main/Resources/2D-Scatter.png"/>
+</p><br>
